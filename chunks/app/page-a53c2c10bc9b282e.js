@@ -24,7 +24,7 @@
                 r.jsxs)(r.Fragment, {
                     children: [(0,
                     r.jsx)("img", {
-                        src: "https://media.tenor.com/gUiu1zyxfzYAAAAi/bear-kiss-bear-kisses.gif"
+                        src: "https://i.pinimg.com/originals/95/08/6d/95086ddda91cbaa7b414d8b457247049.gif"
                     }), (0,
                     r.jsx)("div", {
                         className: "text-4xl font-bold my-4 text-center",
@@ -34,8 +34,8 @@
                 r.jsxs)(r.Fragment, {
                     children: [(0,
                     r.jsx)("img", {
-                        className: "h-[200px]",
-                        src: "img/img/gifimg.gif"
+                        className: "h-[250px]",
+                        src: "https://github.com/Foxfy/Valentine/blob/main/img/gifimg.gif?raw=true"
                     }), (0,
                     r.jsx)("h1", {
                         className: "text-4xl my-4 text-center",
