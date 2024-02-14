@@ -34,7 +34,7 @@
                 r.jsxs)(r.Fragment, {
                     children: [(0,
                     r.jsx)("img", {
-                        className: "h-[250px]",
+                        className: "h-[200px]",
                         src: "https://github.com/Foxfy/Valentine/blob/main/img/gifimg.gif?raw=true"
                     }), (0,
                     r.jsx)("h1", {
